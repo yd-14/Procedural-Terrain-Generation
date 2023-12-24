@@ -8,4 +8,4 @@ To use:
 >
 >bin/main.exe
 
-To control camera using arrow keys and explore the world.
+Control camera using arrow keys and explore the world.
